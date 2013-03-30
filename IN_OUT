@@ -1,0 +1,6 @@
+INP F800 // Input Information And Clear Flag
+OUT F400 // Output Information And Clear FLag
+SKI F200 // Skip If Input Flag is On
+SKO F100 // Skip If Output Flag is On
+ION F080 // Turn Interrupt On
+IOF F040 // Turn Interrupt Off

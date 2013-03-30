@@ -1,0 +1,12 @@
+CLA 7800 //Clear AC
+CLE 7400 //Clear E
+CMA 7200 //Complement AC
+CME 7100 //Complement E
+CIR 7080 //Circulate Right E And AC
+CIL 7040 //Circulate Left  E And AC
+INC 7020 //Increment AC
+SPA 7010 //Skip If AC Is Positive
+SNA 7008 //Skip If AC Is Negative
+SZA 7004 //Skip If AC Is Zero
+SZE 7002 //Skip If E is Zero(0)
+HLT 7001 //Halt Computer

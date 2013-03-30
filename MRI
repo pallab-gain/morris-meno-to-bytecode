@@ -1,0 +1,7 @@
+AND 0 8	// AND M to AC
+ADD 1 9 // Add M to AC, Carry to E
+LDA 2 A // Load AC From M
+STA 3 B // Store AC in M
+BUN 4 C // Branch Unconditionally to M
+BSA 5 D // Save Return Address in m and Brunch to m+1
+ISZ 6 E // Increment M and Skip If Zero(0)
